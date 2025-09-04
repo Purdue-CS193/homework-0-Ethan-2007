@@ -11,15 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Ethan-2007's First CS193 Homework
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Favorite things about CS193
+- How it is applicable to my major
+- How laid back the format of the class is
+- The usefulness of the actual course
 
 **Bold** and _Italic_ and `Code` text
 
